@@ -30,6 +30,8 @@ List any prerequisites that users need to have installed or set up before they c
 
 Provide step-by-step instructions on how to install and set up your project. Include code snippets, commands, or configuration files if necessary.
 
-```bash
-# Example command or code snippet
-npm install
+Ensure you have the following software installed:
+
+Visual Studio Code
+.NET SDK
+SQL Server
