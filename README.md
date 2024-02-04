@@ -1,6 +1,6 @@
 # Project Name
 
-[Event Management System]
+Event Management System
 
 ## Overview
 
